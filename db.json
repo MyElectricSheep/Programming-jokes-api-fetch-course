@@ -1,74 +1,79 @@
 {
-  "users": [
+  "jokes": [
     {
       "id": 1,
-      "first_name": "Justina",
-      "last_name": "Ginglell",
-      "email": "jginglell0@networkadvertising.org",
-      "gender": "Female"
+      "setup": "How many programmers does it take to change a light bulb?",
+      "punchline": "None, that's a hardware problem"
     },
     {
       "id": 2,
-      "first_name": "Marion",
-      "last_name": "Jenman",
-      "email": "mjenman1@surveymonkey.com",
-      "gender": "Male"
+      "setup": "Whats the object-oriented way to become wealthy?",
+      "punchline": "Inheritance"
     },
     {
       "id": 3,
-      "first_name": "Alfy",
-      "last_name": "Begin",
-      "email": "abegin2@list-manage.com",
-      "gender": "Female"
+      "setup": "Why did the programmer quit his job?",
+      "punchline": "Because he didn't get arrays."
     },
     {
       "id": 4,
-      "first_name": "Karney",
-      "last_name": "Zanussii",
-      "email": "kzanussii3@hao123.com",
-      "gender": "Male"
+      "setup": "What did the Java code say to the C code?",
+      "punchline": "You've got no class."
     },
     {
       "id": 5,
-      "first_name": "Reid",
-      "last_name": "Schapero",
-      "email": "rschapero4@timesonline.co.uk",
-      "gender": "Male"
+      "setup": "Why are Assembly programmers always soaking wet?",
+      "punchline": "They work below C-level."
     },
     {
       "id": 6,
-      "first_name": "Dorine",
-      "last_name": "Braybrookes",
-      "email": "dbraybrookes5@gov.uk",
-      "gender": "Female"
+      "setup": "What do cats and programmers have in common?",
+      "punchline": "When either one is unusually happy and excited, an appropriate question would be, 'did you find a bug?'"
     },
     {
       "id": 7,
-      "first_name": "Sarena",
-      "last_name": "Frape",
-      "email": "sfrape6@alexa.com",
-      "gender": "Female"
+      "setup": "What is the most used language in programming?",
+      "punchline": "Profanity"
     },
     {
       "id": 8,
-      "first_name": "Malva",
-      "last_name": "Pierse",
-      "email": "mpierse7@usda.gov",
-      "gender": "Female"
+      "setup": "Why did the database administrator leave his wife?",
+      "punchline": "She had one-to-many relationships"
     },
     {
       "id": 9,
-      "first_name": "Rania",
-      "last_name": "Dablin",
-      "email": "rdablin8@state.gov",
-      "gender": "Female"
+      "setup": "How did the programmer die in the shower?",
+      "punchline": "He read the shampoo bottle instructions: Lather. Rinse. Repeat."
     },
     {
       "id": 10,
-      "first_name": "Ingrim",
-      "last_name": "Offen",
-      "email": "ioffen9@slideshare.net",
-      "gender": "Male"
+      "setup": "Why do Java programmers have to wear glasses?",
+      "punchline": "Because, they don’t C#"
+    },
+    {
+      "id": 11,
+      "setup": "There are 10 kinds of people in this world:",
+      "punchline": "Those who understand binary, those who don’t."
+    },
+    {
+      "id": 12,
+      "setup": "Knock knock. Race condition.",
+      "punchline": "Who's there?"
+    },
+    {
+      "id": 13,
+      "setup": "Don't anger a programming wizard.",
+      "punchline": "They'll curse you, and every time you remove it, they'll just recurse."
+    },
+    {
+      "id": 14,
+      "setup": "What programming language do they use in Star Wars?",
+      "punchline": "JawaScript"
+    },
+    {
+      "id": 15,
+      "setup": "My girlfriend told me I care more about my programming job than about her.",
+      "punchline": "I told her she is the #1 thing I care about."
     }
   ]
 }
